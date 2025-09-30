@@ -63,16 +63,16 @@
 
 1. [Система сборки build, test and deploy](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.1)
 
-2. [Особенности C++11. auto, lambda, tupleЗадание](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.2)
+2. [Особенности C++11. auto, lambda, tuple](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.2)
 
-3. [Реализация контейнеровЗадание](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.3)
+3. [Реализация контейнеров](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.3)
 
-4. [Идея и реализация аллокаторовЗадание](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.4)
+4. [Идея и реализация аллокаторов](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.4)
 
-5. [ООП. Структуры и классыЗадание](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.5)
+5. [ООП. Структуры и классы](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.5)
 
-6. [Принципы проектирования ПОЗадание](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.6)
+6. [Принципы проектирования ПО](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.6)
 
-7. [Библиотека Boost. Паттерны проектированияЗадание](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.7)
+7. [Библиотека Boost. Паттерны проектирования](https://github.com/eaivanof/University_Programming_Labs/tree/main/semester_3/lab_3.7)
 
 </details>
